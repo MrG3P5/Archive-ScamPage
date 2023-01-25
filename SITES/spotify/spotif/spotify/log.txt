@@ -1,0 +1,33 @@
+
+
+#################################################
+===========|+|LOGIN INFOS|+|===========
+user  : admin
+Password  : password
+===========|+|INFOS PC & IP|+|===========
+TIME = 13:42:22
+DATE = 28-10-2018
+USER = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+IP	: http://www.geoiptool.com/?IP=127.0.0.1
+===========|+|X-Black Cat|+|===========
+#################################################
+
+
+===========|+|Card INFOS|+|===========
+CCnumber: 923080328920
+EXP Date: 2/2021
+CVV: 9208
+===========|+|INFOS PC & IP|+|===========
+TIME = 13:42:41
+DATE = 28-10-2018
+USER = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+IP	: http://www.geoiptool.com/?IP=127.0.0.1
+===========|+|Xblack Cat|+|===========
+
+
+
+
+
+
+
+
